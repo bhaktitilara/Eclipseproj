@@ -2,6 +2,7 @@ package tuto_git;
 
 import java.awt.Frame;
 
+//ISM project
 public class Application extends Frame {
 
 	public static void main(String[] args) {
